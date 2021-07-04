@@ -15,6 +15,12 @@ Screenshots:
 
 ![instruction2](https://user-images.githubusercontent.com/86393032/123927938-2a78dc00-d9af-11eb-81a3-55de5e3e37eb.jpg)
 
+![gameplay](https://user-images.githubusercontent.com/86393032/124378868-99b73e80-dcd5-11eb-8cff-e9b50c08d8da.png)
+
+![highscore](https://user-images.githubusercontent.com/86393032/124378878-a63b9700-dcd5-11eb-80fc-fcba2580e7de.png)
+
+![your score](https://user-images.githubusercontent.com/86393032/124378900-cec39100-dcd5-11eb-8863-5c76d5104d3d.png)
+
 Video:
 
 https://user-images.githubusercontent.com/86393032/123933382-2602f200-d9b4-11eb-8247-880843cece87.mp4
