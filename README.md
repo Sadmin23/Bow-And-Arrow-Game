@@ -21,7 +21,4 @@ Screenshots:
 
 ![your score](https://user-images.githubusercontent.com/86393032/124378900-cec39100-dcd5-11eb-8863-5c76d5104d3d.png)
 
-Video:
-
-https://user-images.githubusercontent.com/86393032/123933382-2602f200-d9b4-11eb-8247-880843cece87.mp4
 
